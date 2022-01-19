@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 new branch one,modify as master
+=======
+new branch one,modify
+>>>>>>> 692ec41... modify fr_momo in new branch
 
 
